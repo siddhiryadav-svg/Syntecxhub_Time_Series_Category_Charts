@@ -1,0 +1,29 @@
+
+TIME SERIES & CATEGORY CHARTS
+Project Summary
+----------------------------
+
+Total Orders: 5000
+Total Units Sold: 27418
+Total Sales: Rs. 208,535,936.00
+Total Profit: Rs. 48,792,098.00
+
+Best Performing Category: Electronics
+Best Performing Region: South
+
+Charts Created:
+1. Monthly Sales Line Chart
+2. Category Sales Bar Chart
+3. Category Sales Pie Chart
+4. Quarterly Sales Chart
+5. Region-wise Sales Bar Chart
+
+Chart Selection:
+Line charts were used to show sales trends over time.
+Bar charts were used to compare sales between categories and regions.
+Pie charts were used to show the percentage contribution
+of each category to total sales.
+
+Formatting:
+Titles, axis labels, legends, gridlines and percentage labels
+were used to improve readability and interpretation.
